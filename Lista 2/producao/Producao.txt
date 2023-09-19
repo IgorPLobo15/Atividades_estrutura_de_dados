@@ -1,0 +1,3 @@
+jooj	acer	Metros	50	229
+arroz	cristal	20	30	jooj
+Concreto	Concretagem Cia	L	9000	100

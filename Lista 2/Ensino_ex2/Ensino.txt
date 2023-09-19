@@ -1,0 +1,2 @@
+igu	ciencia da comp	2	4
+maria	ensino medio	1	4
